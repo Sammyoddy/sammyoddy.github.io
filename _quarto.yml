@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SAMMY ODEYEMI"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: index.qmd#portfolio
+        text: Portfolio
+      - href: cv.qmd
+        text: CV
+    
+    right:
+    - icon: twitter
+      href: twitter.com/arduinounoboy
+    - icon: github
+      href: github.com
+    - icon: envelope
+      href: mailto:thesamuelodeyemi@gmail.com
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true
+
+editor: visual
+ 

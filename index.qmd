@@ -1,0 +1,50 @@
+---
+title: "SAMMY ODEYEMI"
+about: 
+    template: jolla
+    image-width: 13em
+    image-shape: rectangle
+    image: sammycolored.jpg
+    links:
+       - icon: github
+         text: Github
+         href: github.com/Sammyoddy
+       - icon: twitter
+         text: Twitter
+         href: twitter.com/arduinounoboy
+       - icon: linkedin
+         text: Linkedin
+         
+         href: linkedin.com
+       - icon: envelope
+         text: Email
+         href: mailto:thesamuelodeyemi@gmail.com
+---
+
+```{=html}
+<h2>Hi!, I am a Data Analyst with expertise in SQL, R and Power BI.<p>I specialize in transforming complex data into clear insights for informed decision-making</p></h2>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<section id="portfolio"> 
+  <header>
+    <h1 style="text-align:left;">My Portfolio</h1>
+  </header>
+  <div style="display:flex; justify-content: space-between;">
+    <div style="flex:50%; padding: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/fifa21/fifa212.jpg" style="width:384px;height:250px;">
+        <a class="btn btn-primary" href="#" role="button" target="_blank" style="width:169px;height:51px;padding:10px;">View Project</a>
+      </div>
+    </div>
+    <div style="flex:50%; padding: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/audible/audiblemain.jpg" style="width:384px;height:250px;">
+        <a class="btn btn-primary" href="#" role="button" target="_blank" style="width:169px;height:51px;padding:10px;">View Project</a>
+      </div>
+    </div>
+  </div>
+</section>
+```
